@@ -1,7 +1,6 @@
 # ⚡ EdwinPAI — Personal AI Assistant
 
 <p align="center">
-  <a href="https://discord.gg/clawd"><img src="https://img.shields.io/discord/1456350064065904867?label=Discord&logo=discord&logoColor=white&color=5865F2&style=for-the-badge" alt="Discord"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-BSL--1.1-blue.svg?style=for-the-badge" alt="BSL-1.1 License"></a>
 </p>
 
