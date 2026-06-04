@@ -1,7 +1,7 @@
 {
   "name": "edwinpai-public-hub",
   "private": true,
-  "version": "1.0.0-beta.4",
+  "version": "1.0.0-beta.8",
   "description": "Public landing page for EdwinPAI repositories, docs, and npm packages",
   "license": "BSL-1.1"
 }

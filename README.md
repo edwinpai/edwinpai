@@ -37,7 +37,7 @@ Published beta packages:
 | Shad memory/search boundary | <https://www.npmjs.com/package/@edwinpai/shad-core> |
 | Workflows extension | <https://www.npmjs.com/package/@edwinpai/workflows> |
 
-Current beta note: use `@edwinpai/edwinpai@beta`. The broken `@edwinpai/edwinpai@1.0.0-beta.3` package was deprecated because it omitted the compiled wrapper entrypoint; beta points to the corrected release.
+Current beta note: use `@edwinpai/edwinpai@beta` for the latest coordinated beta (`1.0.0-beta.8`).
 
 ## Desktop downloads
 
