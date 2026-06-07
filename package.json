@@ -1,7 +1,17 @@
 {
-  "name": "edwinpai-public-hub",
+  "name": "edwinpai-landing",
+  "version": "1.0.0",
   "private": true,
-  "version": "1.0.0-beta.8",
-  "description": "Public landing page for EdwinPAI repositories, docs, and npm packages",
-  "license": "BSL-1.1"
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --host 127.0.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^14.10.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
 }
